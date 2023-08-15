@@ -103,9 +103,12 @@
 
 * +Blendshape modifications - $1
 
-## requesting commision
+## requesting commisions
 
-before you commision me you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
+* before you commision me make sure my commisions are open.
+* you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
+
+commision status: open
 
 ## Rules
 
