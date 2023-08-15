@@ -114,7 +114,7 @@ commision status: open
 
 * you must follow every requested third party asset's policies
 
-* if you request the final product's .unitypackage file, you will require to own all the paid for assets
+* if you request the final product's ".unitypackage" file, you will require to own all the paid for assets
 
 ### Paying
 
