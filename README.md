@@ -57,6 +57,7 @@
 * [Regulus](https://booth.pm/en/items/2365403)
 ![](https://booth.pximg.net/15a199e9-c1ad-46e0-8045-c0d1681bd4ba/i/2365403/601c2e16-fa1c-4657-b583-44dc156f1157_base_resized.jpg)
 
+</details>
 <details>
     <summary id="Shaders">Shaders i own</summary>
 
