@@ -4,79 +4,35 @@
 
 ## Assets i own
 
-<details>
-    <summary id="Bases">Bases i own</summary>
+### bases i own
 
-* [Azalea Dragon](https://foxipaws.gumroad.com/l/Azalea)
-![](https://public-files.gumroad.com/e3me2m4qehb2ozrwsfzvh8kam0wc)
+> * [Azalea Dragon](https://foxipaws.gumroad.com/l/Azalea)
+> * [NKD Protogen](https://nukude.gumroad.com/l/ueLiW)
+> * [Taidum](https://irix.gumroad.com/l/DpDFe)
+> * [Irix FluffyDog](https://irix.gumroad.com/l/bikcyg)
+> * [Rexouium Avatar](https://rezilloryker.gumroad.com/l/MYutV)
+> * [Cervus Durr](https://rezilloryker.gumroad.com/l/Cervus)
+> * [Meownyrn Cat Avatar Base](https://frostkittypaw.gumroad.com/l/meownyrn)
+> * [Lorc'Avali](https://lorcanvr.gumroad.com/l/lorcavali)
+> * [KhnFuCat](https://cyangryphon.gumroad.com/l/KhnFuCat)
+> * [Mama-Gen](https://ghostly.gumroad.com/l/mamagen)
+> * [Winterpaw's VRChat **Cat**](https://juliawinterpaw.gumroad.com/l/vrchatcat)
+> * [Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast)
+> * [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
+> * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
+> * [Kepler](https://booth.pm/en/items/3000412)
+> * [Regulus](https://booth.pm/en/items/2365403)
 
-* [NKD Protogen](https://nukude.gumroad.com/l/ueLiW)
-![](https://public-files.gumroad.com/6cuylt6bbenu273csvuuw5b3fdtx)
+### Shaders i own
 
-* [Taidum](https://irix.gumroad.com/l/DpDFe)
-![](https://public-files.gumroad.com/p9le04siklxvswmd7pthiooyw4hp)
-
-* [Irix FluffyDog](https://irix.gumroad.com/l/bikcyg)
-![](https://public-files.gumroad.com/dia8g24tofb4h0nhvpfrmc69nh42)
-
-* [Rexouium Avatar](https://rezilloryker.gumroad.com/l/MYutV)
-![](https://public-files.gumroad.com/wk6hdfanyrjwm1nruld9pfnfzg9y)
-
-* [Cervus Durr](https://rezilloryker.gumroad.com/l/Cervus)
-![](https://public-files.gumroad.com/nmbps15kg9y9cbcxrekspzgoaus6)
-
-* [Meownyrn Cat Avatar Base](https://frostkittypaw.gumroad.com/l/meownyrn)
-![](https://public-files.gumroad.com/zirxktdphafu0z836mlb4q0tmknq)
-
-* [Lorc'Avali](https://lorcanvr.gumroad.com/l/lorcavali)
-![](https://public-files.gumroad.com/tmkejrxb1dmyyc793cwnz9oietdj)
-
-* [KhnFuCat](https://cyangryphon.gumroad.com/l/KhnFuCat)
-![](https://public-files.gumroad.com/gtd2we3q34by74trq3q0qxpyu4la)
-
-* [Mama-Gen](https://ghostly.gumroad.com/l/mamagen)
-![](https://public-files.gumroad.com/gjv59i59tlsb3f4io8stpo8btrqv)
-
-* [Winterpaw's VRChat **Cat**](https://juliawinterpaw.gumroad.com/l/vrchatcat)
-![](https://public-files.gumroad.com/ch99es6wb2fcss5rm409oxyacscx)
-
-* [Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast)
-![](https://public-files.gumroad.com/s0078oropopoa6lnwb4orwgi4go0)
-
-* [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
-![](https://public-files.gumroad.com/9qhhtpntg9dvkx167xem2w0n0grz)
-
-* [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
-![](https://public-files.gumroad.com/4qsuamtqr5cj9l358rlwruydrwt9)
-
-* [Kepler](https://booth.pm/en/items/3000412)
-![](https://booth.pximg.net/15a199e9-c1ad-46e0-8045-c0d1681bd4ba/i/3000412/70ba2bbd-51eb-4d8a-a693-45f93aad9aca_base_resized.jpg)
-
-* [Regulus](https://booth.pm/en/items/2365403)
-![](https://booth.pximg.net/15a199e9-c1ad-46e0-8045-c0d1681bd4ba/i/2365403/601c2e16-fa1c-4657-b583-44dc156f1157_base_resized.jpg)
-
-</details>
-
-<details>
-    <summary id="Shaders">Shaders i own</summary>
-
-* Unity Standard
-
-* Vrchat sdk shader
-
-* [Poiyomi 8.2](https://www.patreon.com/poiyomi/posts)
-
-* [AudioBump](https://angriestscv.gumroad.com/l/AudioBump) - Add-on for poyomi
-
-* [VRChat Goo Shader](https://valuef.gumroad.com/l/goo)
-
-* [VRChat Hypno Eyes](https://valuef.gumroad.com/l/hypno-eyes)
-
-* [Warren's Fast Fur Shader](https://warrenwolfy.gumroad.com/l/atntv)
-
-* [XSFur](https://booth.pm/en/items/1084711)
-
-</details>
+> * Unity Standard
+> * Vrchat sdk shader
+> * [Poiyomi 8.2](https://www.patreon.com/poiyomi/posts)
+> * [AudioBump](https://angriestscv.gumroad.com/l/AudioBump) - Add-on for poyomi
+> * [VRChat Goo Shader](https://valuef.gumroad.com/l/goo)
+> * [VRChat Hypno Eyes](https://valuef.gumroad.com/l/hypno-eyes)
+> * [Warren's Fast Fur Shader](https://warrenwolfy.gumroad.com/l/atntv)
+> * [XSFur](https://booth.pm/en/items/1084711)
 
 <br>
 
@@ -89,7 +45,7 @@
 
 * Must have a refrence sheet that is well made and understandable
 
-### [Base model painting](#Bases)
+### [Base model painting](#bases-i-own)
 
 * Simple color recolor - $5 per each
 
@@ -113,7 +69,7 @@
 
 * +Face tracking - $25
 
-* +[Custom shader swap](#Shaders) - $5
+* +[Custom shader swap](#shaders-i-own) - $5
 
 * +model/Acessorie mesh edit - $60
 
