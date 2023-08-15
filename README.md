@@ -89,7 +89,7 @@
 
 * Must have a refrence sheet that is well made and understandable
 
-### <a href="#Bases" title="Go to the all the bases i own">Base model painting</a>
+### [Base model painting](#Bases)
 
 * Simple color recolor - $5 per each
 
@@ -113,7 +113,7 @@
 
 * +Face tracking - $25
 
-* +<a href="#Shaders" title="Go to the shaders i own">Custom shader swap</a> - $5
+* +[Custom shader swap](#Shaders) - $5
 
 * +model/Acessorie mesh edit - $60
 
