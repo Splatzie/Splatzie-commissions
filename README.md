@@ -101,9 +101,6 @@
 <a href="https://discord.com/invite/QhdKbZzw" id="discord">
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" style="width: 100px; height: auto;" title="Friend me on Discord">
 </a>
-
-<br>
-
 <a href="https://paypal.me/splatzie" id="paypal">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/1664px-PayPal_Logo_Icon_2014.svg.png" alt="Paypal" style="width: 100px; height: auto;" title="Support me on Paypal">
 </a>
