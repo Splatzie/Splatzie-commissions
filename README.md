@@ -4,7 +4,7 @@
 
 ## Assets i own
 
-### bases i own
+### bases 
 
 > * [Azalea Dragon](https://foxipaws.gumroad.com/l/Azalea)
 > * [NKD Protogen](https://nukude.gumroad.com/l/ueLiW)
@@ -23,7 +23,7 @@
 > * [Kepler](https://booth.pm/en/items/3000412)
 > * [Regulus](https://booth.pm/en/items/2365403)
 
-### Shaders i own
+### Shaders
 
 > * Unity Standard
 > * Vrchat sdk shader
@@ -33,6 +33,7 @@
 > * [VRChat Hypno Eyes](https://valuef.gumroad.com/l/hypno-eyes)
 > * [Warren's Fast Fur Shader](https://warrenwolfy.gumroad.com/l/atntv)
 > * [XSFur](https://booth.pm/en/items/1084711)
+> * [VectorFlow Shader](https://booth.pm/en/items/2764661)
 
 <br>
 
@@ -50,11 +51,11 @@
 
 * ### Basic retexturing
 
-  * #### with refsheet - $10
+* #### with refsheet - $10
 
-  * #### without refsheet - $30
+* #### without refsheet - $30
 
-  * > #### must provide a brief description of where the patterns and colors needs to be
+* > #### must provide a brief description of where the patterns and colors needs to be
 
 * ### complex retexturing - $40 per each
 
@@ -72,7 +73,8 @@
 
 ## Unity
 
-* Setup for vrchat avatar - $4
+* Upload to your vrchat account - $5
+    >this requires your login credentials to access the [vrchat sdk](https://creators.vrchat.com/sdk/)
 
 ### Additional Edits for avatar
 
@@ -81,6 +83,8 @@
 * +Face tracking - $25
 
 * +Quest and PC compatibility - $20
+
+    > Some features might be removed on the quest version due to limitations
 
 * +NSFW - $20
     > must be proven to be 18+ before commisioning this
