@@ -79,7 +79,10 @@
 
 </details>
 
+<br>
+
 * if theres a asset you whould like, not on the list please message me on [discord](#discord)
+
 
 ## Substance painter
 
