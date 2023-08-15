@@ -1,4 +1,3 @@
-
 ### info about me
 
 * hi im just a bean from norway with adhd who likes to make stuff in unity and blender. i can do many things if i put my mind to it
@@ -45,7 +44,7 @@
 ![](https://public-files.gumroad.com/s0078oropopoa6lnwb4orwgi4go0)
 
 * [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
-![](https://public-files.gumroad.com/maphyzxj1h8sm5vxrugso0f3r8iq)
+![](https://public-files.gumroad.com/9qhhtpntg9dvkx167xem2w0n0grz)
 
 * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
 ![](https://public-files.gumroad.com/4qsuamtqr5cj9l358rlwruydrwt9)
@@ -90,7 +89,7 @@
 
 * Must have a refrence sheet that is well made and understandable
 
-### [Base model painting](#Bases)
+### <a href="#Bases" title="Go to the all the bases i own">Base model painting</a>
 
 * Simple color recolor - $5 per each
 
@@ -114,7 +113,7 @@
 
 * +Face tracking - $25
 
-* +[Custom shader swap](#Shaders) - $5
+* +<a href="#Shaders" title="Go to the shaders i own">Custom shader swap</a> - $5
 
 * +model/Acessorie mesh edit - $60
 
