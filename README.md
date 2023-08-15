@@ -36,24 +36,35 @@
 
 <br>
 
-* if theres a asset you whould like, not on the list please message me on [discord](#discord)
+* if theres a asset you whould like, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
 
-
-## Substance painter
-
-### Rules
-
-* Must have a refrence sheet that is well made and understandable
+## Texture Painting
 
 ### [Base model painting](#bases-i-own)
 
-* Simple color recolor - $5 per each
+* ### basic recoloring - $5 per each
 
-* Basic texture - $10 per each
+    > #### no refsheet needed
 
-* Complex - $20 per each
+    > #### Must provide a brief description of what colors you want and where they are gonna be placed
+
+* ### Basic retexturing
+
+  * #### with refsheet - $10
+
+  * #### without refsheet - $30
+
+  * > #### must provide a brief description of where the patterns and colors needs to be
+
+* ### complex retexturing - $40 per each
+
+    > * #### refsheet needed
+    >
+    > * #### additional details can be added if needed
 
 ### Custom (clothig, accessories. etc...)
+
+* simple recolor - $0
 
 * Basic texture - $5 per each
 
@@ -65,42 +76,40 @@
 
 ### Additional Edits for avatar
 
-* +Quest and PC compatibility - $20
+* +model/Acessorie mesh edit - $60
 
 * +Face tracking - $25
 
-* +[Custom shader swap](#shaders-i-own) - $5
+* +Quest and PC compatibility - $20
 
-* +model/Acessorie mesh edit - $60
-
-* +Custom animations - $3 each
-
-* +Clothing/accessorie toggle - $5 each
-
-* +particle system - $3 each
-
-* +Custom prefab installation - 6$ per each
-
-* +Blendshape modifications - $1
+* +NSFW - $20
+    > must be proven to be 18+ before commisioning this
 
 * +Physbones - $7
 
-* +NSFW - $20
+* +Custom prefab installation - 6$ per each
 
-# info
+* +[Custom shader swap](#shaders-i-own) - $5
+
+* +Clothing/accessorie toggle - $5 each
+
+* +Custom animations - $3 each
+
+* +particle system - $3 each
+
+* +Blendshape modifications - $1
+
+## requesting commision
+
+before you commision me you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
+
+## Rules
+
+* you must follow every requested third party asset's policies
 
 * if you request the final product's .unitypackage file, you will require to own all the paid for assets
 
-## Paying
+### Paying
 
-* keep in contact with me before you pay for the final product on [discord](#discord)
-* payment must be made at [paypal](#paypal) before receiving the final product
-
-# links
-
-<a href="https://discord.com/invite/QhdKbZzw" id="discord">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" style="width: 100px; height: auto;" title="Friend me on Discord">
-</a>
-<a href="https://paypal.me/splatzie" id="paypal">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/1664px-PayPal_Logo_Icon_2014.svg.png" alt="Paypal" style="width: 100px; height: auto;" title="Support me on Paypal">
-</a>
+* keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
+* payment must be made at [paypal](https://paypal.me/splatzie) before receiving the final product
