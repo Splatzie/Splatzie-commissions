@@ -43,6 +43,8 @@
 
 ### [Base model painting](#bases-i-own)
 
+* ### default texture - $0 free
+
 * ### basic recoloring - $5 per each
 
     > #### no refsheet needed
