@@ -110,7 +110,7 @@
 * before you commision me make sure my commisions are open.
 * you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
 
-commision status: open
+commision status: Closed
 
 ## Rules
 
