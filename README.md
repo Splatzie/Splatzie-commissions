@@ -98,6 +98,8 @@
     >
     > * #### additional details can be added if needed
 
+* ### No refrences or descriptions. aka "from scratch" - $70 
+
 ### Custom (clothig, accessories. etc...)
 
 * simple recoloring - $0
