@@ -128,11 +128,9 @@ If you want a really specific color use a color picker and send it me
 
 * +Physbones - $7
 
-* +Custom prefab installation - 6$ per each
-
+* +Custom prefab installation - 10$ per each
+    > Toggles for this is free of charge
 * +[Custom shader swap](#shaders) - $5
-
-* +Clothing/accessorie toggle - $5 each
 
 * +Custom animations - $3 each
 
