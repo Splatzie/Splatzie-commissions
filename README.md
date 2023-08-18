@@ -7,24 +7,7 @@
 ### Base Models
 
 * [Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon)
-
->* [Dress for Nardoragon](https://polycrow.gumroad.com/l/NardDress)
->* [Hazmat Suit for Nardoragon](https://polycrow.gumroad.com/l/NardHazmat)
->* [Jockstrap for Nardoragon](https://polycrow.gumroad.com/l/NardJock)
->* [Muzzle for Nardoragon](https://polycrow.gumroad.com/l/NardMuzzle)
->* [Fine Harness for Nardoragon](https://polycrow.gumroad.com/l/NardFineHarness)
->* [Fem Fluff for Nardoragon](https://polycrow.gumroad.com/l/FemFluff)
->* [Tail Bags for Nardoragon](https://polycrow.gumroad.com/l/TailBags)
->* [Skirt, Top and Underwear for Nardoragon](https://polycrow.gumroad.com/l/NardSkirt)
->* [Harness and warmers for Nardoragon](https://polycrow.gumroad.com/l/rElDH)
->* [Femboy Outfit For Nardoragon](https://alfyb.gumroad.com/l/femboy)
->* [Booty Shorts and Top for Nardoragon](https://alfyb.gumroad.com/l/shorts)
-
 * [Rexouium Avatar](https://rezilloryker.gumroad.com/l/MYutV)
-
->* [Rex Crop top](https://kiwidox.gumroad.com/l/wksHU)
->* [Neko Lingerie](https://scorpius.gumroad.com/l/Wnfby)
-
 * [Taidum](https://irix.gumroad.com/l/DpDFe)
 * [Kepler](https://booth.pm/en/items/3000412)
 * [KhnFuCat](https://cyangryphon.gumroad.com/l/KhnFuCat)
@@ -66,10 +49,26 @@
 * [Collar & Tag](https://beanshep.gumroad.com/l/CollarTag)
 * [Wings (n°1) VRChat](https://gell3d.gumroad.com/l/wings1) - commercial license
 
+### Clothing and accesories
+
+* [Dress for Nardoragon](https://polycrow.gumroad.com/l/NardDress)
+* [Hazmat Suit for Nardoragon](https://polycrow.gumroad.com/l/NardHazmat)
+* [Jockstrap for Nardoragon](https://polycrow.gumroad.com/l/NardJock)
+* [Muzzle for Nardoragon](https://polycrow.gumroad.com/l/NardMuzzle)
+* [Fine Harness for Nardoragon](https://polycrow.gumroad.com/l/NardFineHarness)
+* [Fem Fluff for Nardoragon](https://polycrow.gumroad.com/l/FemFluff)
+* [Tail Bags for Nardoragon](https://polycrow.gumroad.com/l/TailBags)
+* [Skirt, Top and Underwear for Nardoragon](https://polycrow.gumroad.com/l/NardSkirt)
+* [Harness and warmers for Nardoragon](https://polycrow.gumroad.com/l/rElDH)
+* [Femboy Outfit For Nardoragon](https://alfyb.gumroad.com/l/femboy)
+* [Booty Shorts and Top for Nardoragon](https://alfyb.gumroad.com/l/shorts)
+* [Rex Crop top](https://kiwidox.gumroad.com/l/wksHU)
+* [Neko Lingerie](https://scorpius.gumroad.com/l/Wnfby)
+
 <br>
 
 * note that i own more assets than what is listed
-* if theres a asset you whould like, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
+* if theres a asset you whould like on you commision, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
 
 ## Texture Painting
 
