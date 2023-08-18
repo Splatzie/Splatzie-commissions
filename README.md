@@ -35,6 +35,10 @@
 > * [XSFur](https://booth.pm/en/items/1084711)
 > * [VectorFlow Shader](https://booth.pm/en/items/2764661)
 
+###Prefabs
+
+> * [VRCLens](https://hirabiki.gumroad.com/l/rpnel)
+
 <br>
 
 * if theres a asset you whould like, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
