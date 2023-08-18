@@ -80,9 +80,8 @@
 
 * ### basic recoloring - $5 per each
 
-    > #### no refsheet needed
-
-    > #### Must provide a brief description of what colors you want and where they are gonna be placed
+    > * #### no refsheet needed
+    > * #### Must provide a brief description of what colors you want and where they are gonna be placed
 
 * ### Basic retexturing
 
