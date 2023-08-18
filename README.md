@@ -143,7 +143,7 @@ If you want a really specific color use a color picker and send it me
 * before you commision me make sure my commisions are open.
 * you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
 
-commision status: Closed
+commision status: Open
 
 ## Rules
 
