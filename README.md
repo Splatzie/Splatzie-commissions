@@ -67,11 +67,11 @@
 
 ### Custom (clothig, accessories. etc...)
 
-* simple recolor - $0
+* simple recoloring - $0
 
-* Basic texture - $5 per each
+* Basic texturing - $5 per each
 
-* Complex - $10 per each
+* Complex retexturing - $10 per each
 
 If you want a really specific color use a color picker and send it me
 
