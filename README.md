@@ -68,7 +68,7 @@
 <br>
 
 * note that i own more assets than what is listed
-* if theres a asset you whould like on you commision, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
+* if theres a asset you whould like on your commision, not on listed here, buy it youself and send me money to buy the asset
 
 ## Texture Painting
 
