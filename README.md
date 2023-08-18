@@ -50,7 +50,7 @@
 * [Wings (n°1) VRChat](https://gell3d.gumroad.com/l/wings1) - commercial license
 
 ### Clothing and accesories
-* Nardoragon
+* [Nardoragon](#assets-i-own)
     >* [Dress for Nardoragon](https://polycrow.gumroad.com/l/NardDress)
     >* [Hazmat Suit for Nardoragon](https://polycrow.gumroad.com/l/NardHazmat)
     >* [Jockstrap for Nardoragon](https://polycrow.gumroad.com/l/NardJock)
@@ -63,7 +63,7 @@
     >* [Femboy Outfit For Nardoragon](https://alfyb.gumroad.com/l/femboy)
     >* [Booty Shorts and Top for Nardoragon](https://alfyb.gumroad.com/l/shorts)
 
-* Rexouium
+* [Rexouium](#assets-i-own)
     >* [Rex Crop top](https://kiwidox.gumroad.com/l/wksHU)
     >* [Neko Lingerie](https://scorpius.gumroad.com/l/Wnfby)
 
