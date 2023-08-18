@@ -129,7 +129,7 @@ If you want a really specific color use a color picker and send it me
 
 * +Custom prefab installation - 6$ per each
 
-* +[Custom shader swap](#sha    s) - $5
+* +[Custom shader swap](#shaders) - $5
 
 * +Clothing/accessorie toggle - $5 each
 
