@@ -73,6 +73,8 @@
 
 * Complex - $10 per each
 
+If you want a really specific color use a color picker and send it me
+
 ## Unity
 
 * Upload to your vrchat account - $5
