@@ -95,18 +95,23 @@
 * ### complex retexturing - $40 per each
 
     > * #### refsheet needed
-    >
     > * #### additional details can be added if needed
 
-* ### No refrences or descriptions. aka "from scratch" - $70 
+* ### from scratch - $70 per each
+
+    > * #### no refsheet needed
+    > * #### no description of details needed
 
 ### Custom (clothig, accessories. etc...)
 
 * simple recoloring - $0
+> * #### provide basic colors to add
 
 * Basic texturing - $5 per each
+> * #### provide basic patterns and colors
 
 * Complex retexturing - $10 per each
+> * #### provide patterns, colors and placement ideas
 
 If you want a really specific color use a color picker and send it me
 
