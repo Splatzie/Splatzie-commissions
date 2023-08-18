@@ -35,10 +35,17 @@
 > * [XSFur](https://booth.pm/en/items/1084711)
 > * [VectorFlow Shader](https://booth.pm/en/items/2764661)
 
-###Prefabs
+### Prefabs
 
 > * [VRCLens](https://hirabiki.gumroad.com/l/rpnel)
-
+> * [GoGo Loco](https://franadavrc.gumroad.com/l/gogoloco)
+> * [Fiddle Cube](https://liindy.gumroad.com/l/FiddleCube)
+> * [Limb Control](https://dreadrith.gumroad.com/l/LBControl)
+> * [Portal Shooter](https://illuminatedvr.gumroad.com/l/Portal)
+> * [Fluffy Tail](https://novaicnight.gumroad.com/l/fluffytail)
+> * [Spade's Collar](https://spade.gumroad.com/l/Collar)
+> * [VRC Cute Soft Hair](https://aidenart.gumroad.com/l/xxawse)
+> * [Collar & Tag](https://beanshep.gumroad.com/l/CollarTag)
 <br>
 
 * if theres a asset you whould like, not on the list please message me on [discord](https://discord.com/invite/QhdKbZzw)
