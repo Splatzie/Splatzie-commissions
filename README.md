@@ -6,22 +6,23 @@
 
 ### bases 
 
+> * [Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon)
+> * [Taidum](https://irix.gumroad.com/l/DpDFe)
+> * [Rexouium Avatar](https://rezilloryker.gumroad.com/l/MYutV)
+> * [Kepler](https://booth.pm/en/items/3000412)
+> * [KhnFuCat](https://cyangryphon.gumroad.com/l/KhnFuCat)
+> * [Regulus](https://booth.pm/en/items/2365403)
 > * [Azalea Dragon](https://foxipaws.gumroad.com/l/Azalea)
 > * [NKD Protogen](https://nukude.gumroad.com/l/ueLiW)
-> * [Taidum](https://irix.gumroad.com/l/DpDFe)
 > * [Irix FluffyDog](https://irix.gumroad.com/l/bikcyg)
-> * [Rexouium Avatar](https://rezilloryker.gumroad.com/l/MYutV)
 > * [Cervus Durr](https://rezilloryker.gumroad.com/l/Cervus)
 > * [Meownyrn Cat Avatar Base](https://frostkittypaw.gumroad.com/l/meownyrn)
 > * [Lorc'Avali](https://lorcanvr.gumroad.com/l/lorcavali)
-> * [KhnFuCat](https://cyangryphon.gumroad.com/l/KhnFuCat)
 > * [Mama-Gen](https://ghostly.gumroad.com/l/mamagen)
 > * [Winterpaw's VRChat **Cat**](https://juliawinterpaw.gumroad.com/l/vrchatcat)
 > * [Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast)
 > * [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
 > * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
-> * [Kepler](https://booth.pm/en/items/3000412)
-> * [Regulus](https://booth.pm/en/items/2365403)
 
 ### Shaders
 
