@@ -129,7 +129,7 @@ If you want a really specific color use a color picker and send it me
 
     > Some features might be removed on the quest version due to limitations
 
-* +NSFW - $20
+* +NSFW - $50
     > must be proven to be 18+ before commisioning this
 
 * +Physbones - $7
