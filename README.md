@@ -6,7 +6,7 @@
 
 ## [Base model painting](#base-models)
 
-* ### Custom retexture - $10 - $50 depending on complexity
+* ### Custom retexture - $10 to $50 depending on complexity
 
 * ### from scratch - $70 per each
 
@@ -59,7 +59,6 @@
 
 * keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
 * payment must be made before receiving the final product
-* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0NJ50X)
 
 # Assets i own
 
