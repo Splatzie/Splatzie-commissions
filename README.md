@@ -60,7 +60,7 @@ commision status: Open
 # Paying
 
 * keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
-* payment must be made at [paypal](https://paypal.me/splatzie) before receiving the final product
+* payment must be made before receiving the final product
 
 # Assets i own
 
