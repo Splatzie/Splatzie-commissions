@@ -49,8 +49,6 @@
 * before you commision me make sure my commisions are open.
 * you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
 
-commision status: Open
-
 # Rules
 
 * you must follow every requested third party asset's policies
@@ -61,6 +59,7 @@ commision status: Open
 
 * keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
 * payment must be made before receiving the final product
+* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0NJ50X)
 
 # Assets i own
 
