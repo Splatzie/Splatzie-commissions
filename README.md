@@ -1,8 +1,68 @@
-### info about me
+# info about me
 
 * hi im just a bean from norway with adhd who likes to make stuff in unity and blender. i can do many things if i put my mind to it
 
-## Assets i own
+# Texture Painting
+
+## [Base model painting](#base-models)
+
+* ### Custom retexture - $10 - $50 depending on complexity
+
+* ### from scratch - $70 per each
+
+## Custom (clothig, accessories. etc...)
+
+* ### Custom retexture - $3 to $10 depending on complexity
+
+# Unity
+
+* Upload to your vrchat account - $5
+    >this requires your login credentials to access the [vrchat sdk](https://creators.vrchat.com/sdk/)
+
+### Additional Edits for avatar
+
+* +model/Acessorie mesh edit - $60
+
+* +Face tracking - $25
+
+* +Quest and PC compatibility - $20
+
+    > Some features might be removed on the quest version due to limitations
+
+* +NSFW - $50
+    > must be proven to be 18+ before commisioning this
+
+* +Physbones - $7
+
+* +Custom prefab installation - 10$ per each
+    > Toggles for this is free of charge
+* +[Custom shader swap](#shaders) - $5
+
+* +Custom animations - $3 each
+
+* +particle system - $3 each
+
+* +Blendshape modifications - $1
+
+# requesting commisions
+
+* before you commision me make sure my commisions are open.
+* you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
+
+commision status: Open
+
+# Rules
+
+* you must follow every requested third party asset's policies
+
+* if you request the final product's ".unitypackage" file, you will require to own all the paid for assets
+
+# Paying
+
+* keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
+* payment must be made at [paypal](https://paypal.me/splatzie) before receiving the final product
+
+# Assets i own
 
 ### Base Models
 
@@ -71,93 +131,3 @@
 
 * note that i own more assets than what is listed
 * if theres a asset you whould like on your commision, not on listed here, buy it youself and send me money to buy the asset
-
-## Texture Painting
-
-### [Base model painting](#base-models)
-
-* ### default texture - $0 free
-
-* ### basic recoloring - $5 per each
-
-    > * #### no refsheet needed
-    > * #### Must provide a brief description of what colors you want and where they are gonna be placed
-
-* ### Basic retexturing
-
-* #### with refsheet - $10
-
-* #### without refsheet - $30
-
-* > #### must provide a brief description of where the patterns and colors needs to be
-
-* ### complex retexturing - $40 per each
-
-    > * #### refsheet needed
-    > * #### additional details can be added if needed
-
-* ### from scratch - $70 per each
-
-    > * #### no refsheet needed
-    > * #### no description of details needed
-
-### Custom (clothig, accessories. etc...)
-
-* simple recoloring - $0
-> * #### provide basic colors to add
-
-* Basic texturing - $5 per each
-> * #### provide basic patterns and colors
-
-* Complex retexturing - $10 per each
-> * #### provide patterns, colors and placement ideas
-
-If you want a really specific color use a color picker and send it me
-
-## Unity
-
-* Upload to your vrchat account - $5
-    >this requires your login credentials to access the [vrchat sdk](https://creators.vrchat.com/sdk/)
-
-### Additional Edits for avatar
-
-* +model/Acessorie mesh edit - $60
-
-* +Face tracking - $25
-
-* +Quest and PC compatibility - $20
-
-    > Some features might be removed on the quest version due to limitations
-
-* +NSFW - $50
-    > must be proven to be 18+ before commisioning this
-
-* +Physbones - $7
-
-* +Custom prefab installation - 10$ per each
-    > Toggles for this is free of charge
-* +[Custom shader swap](#shaders) - $5
-
-* +Custom animations - $3 each
-
-* +particle system - $3 each
-
-* +Blendshape modifications - $1
-
-## requesting commisions
-
-* before you commision me make sure my commisions are open.
-* you need to have every info about your request ready, then shoot me a message in [discord](https://discord.com/invite/QhdKbZzw)
-
-commision status: Open
-
-## Rules
-
-* you must follow every requested third party asset's policies
-
-* if you request the final product's ".unitypackage" file, you will require to own all the paid for assets
-
-### Paying
-
-* keep in contact with me before you pay for the final product on [discord](https://discord.com/invite/QhdKbZzw)
-* payment must be made at [paypal](https://paypal.me/splatzie) before receiving the final product
