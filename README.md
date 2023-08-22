@@ -96,37 +96,6 @@ commision status: Open
 * [XSFur](https://booth.pm/en/items/1084711)
 * [VectorFlow Shader](https://booth.pm/en/items/2764661)
 
-### Prefabs
-
-* [VRCLens](https://hirabiki.gumroad.com/l/rpnel)
-* [GoGo Loco](https://franadavrc.gumroad.com/l/gogoloco)
-* [Fiddle Cube](https://liindy.gumroad.com/l/FiddleCube)
-* [Limb Control](https://dreadrith.gumroad.com/l/LBControl)
-* [Portal Shooter](https://illuminatedvr.gumroad.com/l/Portal)
-* [Fluffy Tail](https://novaicnight.gumroad.com/l/fluffytail)
-* [Spade's Collar](https://spade.gumroad.com/l/Collar)
-* [VRC Cute Soft Hair](https://aidenart.gumroad.com/l/xxawse)
-* [Collar & Tag](https://beanshep.gumroad.com/l/CollarTag)
-* [Wings (n°1) VRChat](https://gell3d.gumroad.com/l/wings1) - commercial license
-
-### Clothing and accesories
-* [Nardoragon](#assets-i-own)
-    >* [Dress for Nardoragon](https://polycrow.gumroad.com/l/NardDress)
-    >* [Hazmat Suit for Nardoragon](https://polycrow.gumroad.com/l/NardHazmat)
-    >* [Jockstrap for Nardoragon](https://polycrow.gumroad.com/l/NardJock)
-    >* [Muzzle for Nardoragon](https://polycrow.gumroad.com/l/NardMuzzle)
-    >* [Fine Harness for Nardoragon](https://polycrow.gumroad.com/l/NardFineHarness)
-    >* [Fem Fluff for Nardoragon](https://polycrow.gumroad.com/l/FemFluff)
-    >* [Tail Bags for Nardoragon](https://polycrow.gumroad.com/l/TailBags)
-    >* [Skirt, Top and Underwear for Nardoragon](https://polycrow.gumroad.com/l/NardSkirt)
-    >* [Harness and warmers for Nardoragon](https://polycrow.gumroad.com/l/rElDH)
-    >* [Femboy Outfit For Nardoragon](https://alfyb.gumroad.com/l/femboy)
-    >* [Booty Shorts and Top for Nardoragon](https://alfyb.gumroad.com/l/shorts)
-
-* [Rexouium](#assets-i-own)
-    >* [Rex Crop top](https://kiwidox.gumroad.com/l/wksHU)
-    >* [Neko Lingerie](https://scorpius.gumroad.com/l/Wnfby)
-
 <br>
 
 * note that i own more assets than what is listed
