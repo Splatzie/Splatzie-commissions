@@ -21,7 +21,7 @@
 
 ### Additional Edits for avatar
 
-* +model/Acessorie mesh edit - $60
+* +Model/Acessorie mesh edit - $60
 
 * +Face tracking - $25
 
@@ -32,17 +32,9 @@
 * +NSFW - $50
     > must be proven to be 18+ before commisioning this
 
-* +Physbones - $7
-
 * +Custom prefab installation - 10$ per each
     > Toggles for this is free of charge
 * +[Custom shader swap](#shaders) - $5
-
-* +Custom animations - $3 each
-
-* +particle system - $3 each
-
-* +Blendshape modifications - $1
 
 # requesting commisions
 
