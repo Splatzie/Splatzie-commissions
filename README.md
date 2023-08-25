@@ -6,9 +6,13 @@
 
 ## [Base model painting](#base-models)
 
-* ### Custom retexture - $10 to $50 depending on complexity
+* ### Custom retexture - $10 to $80 depending on complexity
+
+    > please provide description, details, refsheets, refrence images and such
 
 * ### from scratch - $70 per each
+
+  > This mean you let me use my creativity to make anything
 
 ## Custom (clothig, accessories. etc...)
 
