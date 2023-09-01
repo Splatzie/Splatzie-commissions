@@ -10,7 +10,7 @@
 
     > please provide description, details, refsheets, refrence images and such
 
-* ### from scratch - $70 per each
+* ### from scratch - $100 per each
 
   > This mean you let me use my creativity to make anything
 
