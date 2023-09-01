@@ -25,7 +25,7 @@
 
 ### Additional Edits for avatar
 
-* +Model/Acessorie mesh edit - $60
+* +Model/Acessorie mesh edit - $30 to $100 depending on complexity
 
 * +Face tracking - $25
 
