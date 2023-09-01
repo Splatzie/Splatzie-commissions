@@ -79,10 +79,12 @@
 * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
 * [Soapcat](https://ironicsoap.gumroad.com/l/SoapCats)
 
-### combination bases
+### Combined bases
+    > must own both bases
 
-* Taiyeen ([Taidum](https://irix.gumroad.com/l/DpDFe) and [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid))
-* Nardeen ([Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon) and [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid))
+* [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid) Combinations
+* Taiyeen ([Taidum](https://irix.gumroad.com/l/DpDFe))
+* Nardeen ([Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon))
 
 ### Shaders
 
