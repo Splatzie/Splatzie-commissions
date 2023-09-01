@@ -77,6 +77,7 @@
 * [Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast)
 * [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
 * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
+* [Soapcat](https://ironicsoap.gumroad.com/l/SoapCats)
 
 ### Shaders
 
