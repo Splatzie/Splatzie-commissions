@@ -80,11 +80,11 @@
 * [Soapcat](https://ironicsoap.gumroad.com/l/SoapCats)
 
 ### Combined bases
-    > must own both bases
+>you must own all bases in the combination
 
-* [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid) Combinations
-* Taiyeen ([Taidum](https://irix.gumroad.com/l/DpDFe))
-* Nardeen ([Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon))
+[Hyenid](https://alber.gumroad.com/l/Hyenid) Combinations
+  > * Taiyeen ([Taidum](https://irix.gumroad.com/l/DpDFe))
+  > * Nardeen ([Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon))
 
 ### Shaders
 
