@@ -74,6 +74,7 @@
 * [Lorc'Avali](https://lorcanvr.gumroad.com/l/lorcavali)
 * [Mama-Gen](https://ghostly.gumroad.com/l/mamagen)
 * [Winterpaw's VRChat **Cat**](https://juliawinterpaw.gumroad.com/l/vrchatcat)
+* [Winterpaw's Mini Canine](https://juliawinterpaw.gumroad.com/l/minicanine?layout=profile)
 * [Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast)
 * [Hyenid VRChat Avatar](https://alber.gumroad.com/l/Hyenid)
 * [VRChat Cat Redux](https://xtosca.gumroad.com/l/ToscaCat)
