@@ -86,6 +86,7 @@
 [Hyenid](https://alber.gumroad.com/l/Hyenid) Combinations
   > * Taiyeen ([Taidum](https://irix.gumroad.com/l/DpDFe))
   > * Nardeen ([Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon))
+  > * Ween ([Wickerbeast King (VRChat Ready 3D Model)](https://jinapark.gumroad.com/l/JinsWickerbeast))
 
 ### Shaders
 
